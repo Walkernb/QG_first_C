@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1617117316 source:d:\打码专属\qg作业\第一次作业\linked_list\linked_list_interface.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1617117479 source:d:\打码专属\qg作业\第一次作业\linked_list\linked_list_delete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1617117481 source:d:\打码专属\qg作业\第一次作业\linked_list\linked_list_insert.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1617117478 source:d:\打码专属\qg作业\第一次作业\linked_list\linked_list_circle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
